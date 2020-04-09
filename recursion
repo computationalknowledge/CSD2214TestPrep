@@ -1,0 +1,15 @@
+//  Play with this in Visual Studio Code using the Debugger
+//  #challenge: see if you can get the recursion to work:
+
+function orange(a) {
+    if (a < 10) {
+        a = lemon(a);
+    }
+}
+
+function lemon(a) {
+    orange(a++);
+    return a;
+}
+
+console.log(orange(5));
