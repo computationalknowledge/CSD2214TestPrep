@@ -6,3 +6,9 @@ https://www.dropbox.com/s/gj0qd1c1xvc2h07/ajax_tutorial.docx?dl=0
 
 https://www.dropbox.com/s/qn400k0r5l7isnj/Working%20with%20Ajax%20Student%20Lab%20Guide.docx?dl=0
 
+study review resources:
+https://t2m.io/JavaScriptTestReviewMaterials
+pay special attention to the directory: Learning Review Materials
+== Final Learning Review Document.docx
+
+
